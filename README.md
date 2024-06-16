@@ -1,4 +1,4 @@
-# PARP1_regulated_circRNA_biognesis_2023
+# PARP1_regulated_circRNA_biogenesis_2023
 
 PARP1 Regulates Circular RNA Biogenesis though Control of Transcriptional Dynamics
 
