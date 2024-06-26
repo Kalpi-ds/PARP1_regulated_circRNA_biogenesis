@@ -18,3 +18,6 @@ hsa_MTI.txt get this from miRTarbase. it is a list of miRNa target genes for hum
 6. Use these Entrez for GO-clusterprofiler, KEGG-grofiler --->ClusterProfiler.R, gprofiler.R, enrichmentBarPlot.R 
 7. C:\Kalpani\KY-INBRE PostDoc\Yvonne\Bekah\2024\compareiAsOVESaTBshSATB2onlymiRNAs Compare miRNas between conditions --> experimentalandcontrolOnlymiRNAOverlap.R
 8. C:\Kalpani\KY-INBRE PostDoc\Yvonne\Bekah\2024\compareiAsOVESaTBshSATB2onlycircRnAs ompare circRNAs between conditiond ---> experimentalConditionOnlycircRNAOverlap.R
+
+
+Host gene architecture
