@@ -21,3 +21,7 @@ hsa_MTI.txt get this from miRTarbase. it is a list of miRNa target genes for hum
 
 
 Host gene architecture
+
+1. Get the Exon Intron coordinates and their lengths through out the genomw --->findIntronExonLengths-version3.pl
+2. Exons and Intons are repeated in the output files from step1 because it contains the same information from several transcripts.
+   So the files were filtered for unique entries (filter out if same length with same coordinates repeat for a particular gene). And exon files were further filtered to remove single exon genes. 
